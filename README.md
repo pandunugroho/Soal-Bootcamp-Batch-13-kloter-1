@@ -22,7 +22,7 @@ Input kedua berupa integer dimasukan secara manual sebagai besar uang yang perlu
 Input berupa integer dimasukan secara manual sebagai panjang sisi persegi. Bila integer genap dimasukan, program dapat berjalan. Namun, bentuk yang dihasilkan tidak sesuai.
 
 ### Nomor 4
-Input berupa integer positif dimasukan secara manual sebagai durasi parkir.
+Input berupa integer positif dimasukan secara manual sebagai durasi parkir (dalam jam).
 
 ### Nomor 5
 Input pertama dan kedua berupa string dimasukan secara manual sebagai Nama dan NIM. NIM berupa string, sehingga tidak menghilangkan angka 0 pada awal NIM.
