@@ -5,15 +5,15 @@ def nilaiTotal(nama,nim,hadir,tugas,uts,uas):
 		print ('Nilai : E')
 	else:
 		total = hadir/14*100*1/10+tugas*2/10+uts*3/10+uas*4/10
-		if 80 < total <=100:
+		if 79 < total <=100:
 			grade = 'A'
-		elif 70 < total <= 80:
+		elif 70 < total <= 79:
 			grade = 'B'
 		elif 60 < total <= 70:
 			grade = 'C'
-		elif 50 <= total <= 60:
+		elif 49 < total <= 60:
 			grade = 'D'
-		elif 0 <= total < 50:
+		elif 0 <= total <= 49:
 			grade = 'E'
 		print ('Nilai :',grade)
 
